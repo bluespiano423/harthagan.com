@@ -1,4 +1,3 @@
-Excellent choice. **Option 2** is strong because it speaks directly to readers and invites them into the work. Now let’s turn it into a **complete top section for your homepage** so you can eventually paste it into WordPress.
 
 ---
 
