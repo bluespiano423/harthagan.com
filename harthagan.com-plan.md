@@ -183,3 +183,51 @@ You already have a very good one.
 If you'd like, the next thing I can show you is something **extremely useful for your future audience**:
 
 How your **Substack posts can follow the same Landscapes → Farms → Forests structure**, which will make your writing feel organized and intentional.
+
+Good idea. Let’s keep this **very simple and clear**.
+
+You only need to copy **two sections** into your GitHub planning document (**harthagan.com-plan.md**).
+
+You already have:
+
+* Home
+* Start Here
+* About
+
+What remains are:
+
+* **Learn**
+* **Connect**
+
+Just paste the following text **at the bottom of your file**.
+
+---
+
+## Learn
+
+This site explores practical ways to restore landscapes, farms, and forests.
+
+My goal is to help readers understand how ecosystems work and how individuals can participate in restoring the land where we live.
+
+Topics covered on this site include:
+
+• Native plants and backyard habitat
+• Regenerative agriculture and soil health
+• Forest ecology and conservation
+• Biodiversity and ecosystem restoration
+
+Over time this section will include additional resources such as guides, webinars, and courses focused on ecological restoration.
+
+---
+
+## Connect
+
+You can follow my work and writing through the following channel.
+
+Substack
+harthagan.substack.com
+
+Future articles, updates, and resources will be published there.
+
+---
+
