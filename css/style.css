@@ -35,3 +35,14 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
+.hero {
+  background: #2f4f2f;
+  color: white;
+  padding: 100px 40px;
+}
+
+.hero h2 {
+  font-size: 36px;
+  margin-bottom: 15px;
+}
