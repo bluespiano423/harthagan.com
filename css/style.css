@@ -1,8 +1,5 @@
 
 
-body {
-  background: red !important;
-}
 
 body {
   font-family: Arial, sans-serif;
@@ -58,6 +55,29 @@ footer {
   height: auto;
   display: block;
   margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  body, p, li {
+    font-size: 20px !important;
+    line-height: 1.7 !important;
+  }
+
+  h1 {
+    font-size: 30px !important;
+  }
+
+  h2 {
+    font-size: 26px !important;
+  }
+
+  h3 {
+    font-size: 22px !important;
+  }
+
+  .hero h2 {
+    font-size: 26px !important;
+  }
 }
 
 @media (max-width: 768px) {
