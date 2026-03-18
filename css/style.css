@@ -109,3 +109,13 @@ footer {
     font-size: 26px !important;
   }
 }
+
+.hero a {
+  color: #66ccff;       /* light blue */
+  font-size: 1.2em;     /* slightly larger */
+  text-decoration: none;
+}
+
+.hero a:hover {
+  color: #99ddff;       /* even lighter on hover */
+}
