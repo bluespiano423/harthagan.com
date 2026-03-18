@@ -119,3 +119,12 @@ footer {
 .hero a:hover {
   color: #99ddff;       /* even lighter on hover */
 }
+
+.hero {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.content {
+  margin-top: 10px;
+}
