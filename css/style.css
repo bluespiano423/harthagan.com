@@ -139,3 +139,15 @@ nav {
   margin: 0 auto;
   padding: 0;
 }
+
+nav {
+  position: relative;
+  left: 0;
+}
+
+nav a {
+  display: block;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
