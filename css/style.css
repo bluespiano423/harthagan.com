@@ -128,3 +128,33 @@ footer {
 .content {
   margin-top: 10px;
 }
+
+/* Webinar page styling */
+.webinar-page {
+  background-color: #3b2f2f;
+  color: #f5f5f5;
+}
+
+/* Headings */
+.webinar-page h1,
+.webinar-page h2,
+.webinar-page h3 {
+  color: #ffffff;
+}
+
+/* Content sections */
+.webinar-page section {
+  background-color: #4a3a2a;
+  padding: 25px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+/* Links */
+.webinar-page a {
+  color: #90ee90;
+}
+
+.webinar-page a:hover {
+  color: #c1ffc1;
+}
