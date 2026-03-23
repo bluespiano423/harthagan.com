@@ -187,9 +187,9 @@ footer {
 
 /* Webinar images */
 .webinar-page img {
-  max-width: 500px;
-  width: 100%;
-  height: auto;
+  max-width: 500px !important;
+  width: 100% !important;
+  height: auto !important;
   display: block;
   margin: 20px auto;
   border-radius: 8px;
