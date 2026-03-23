@@ -131,15 +131,15 @@ footer {
 
 /* Webinar page styling */
 .webinar-page {
-  background-color: #3b2f2f;
-  color: #f5f5f5;
+  background-color: #3b2f2f !important;
+  color: #f5f5f5 !important;
 }
 
 /* Headings */
 .webinar-page h1,
 .webinar-page h2,
 .webinar-page h3 {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 /* Content sections */
