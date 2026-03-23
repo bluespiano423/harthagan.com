@@ -171,3 +171,16 @@ footer {
   line-height: 1.6;
   margin-bottom: 16px;
 }
+
+/* Center and contain webinar content */
+.webinar-page .content {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* Improve readability */
+.webinar-page p {
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
