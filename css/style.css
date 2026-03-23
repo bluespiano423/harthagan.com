@@ -217,3 +217,32 @@ footer {
   margin: 20px auto;
   border-radius: 8px;
 }
+@media (max-width: 768px) {
+
+  .webinar-page {
+    font-size: 20px !important;
+  }
+
+  .webinar-page h1 {
+    font-size: 32px !important;
+  }
+
+  .webinar-page h2 {
+    font-size: 28px !important;
+  }
+
+  .webinar-page h3 {
+    font-size: 24px !important;
+  }
+
+  .webinar-page p,
+  .webinar-page li {
+    font-size: 20px !important;
+  }
+
+  .webinar-page .register-button {
+    font-size: 20px !important;
+    padding: 16px 24px !important;
+  }
+
+}
