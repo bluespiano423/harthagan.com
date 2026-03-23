@@ -158,3 +158,16 @@ footer {
 .webinar-page a:hover {
   color: #c1ffc1;
 }
+
+/* Center content and improve readability */
+.webinar-page main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* Paragraph spacing */
+.webinar-page p {
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
