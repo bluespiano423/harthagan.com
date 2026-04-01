@@ -182,6 +182,11 @@ footer {
   color: #c1ffc1;
 }
 
+.webinar-page nav a,
+.webinar-page nav a:hover {
+  color: #000000;
+}
+
 /* Center content and improve readability */
 .webinar-page main {
   max-width: 800px;
