@@ -211,6 +211,8 @@ footer {
 .webinar-page {
   background-color: #3b2f2f !important;
   color: #f5f5f5 !important;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 /* Headings */
@@ -309,7 +311,9 @@ footer {
   }
 
   .webinar-page p,
-  .webinar-page li {
+  .webinar-page li,
+  .webinar-page a,
+  .webinar-page strong {
     font-size: 20px !important;
   }
 
