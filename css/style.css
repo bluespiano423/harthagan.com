@@ -132,17 +132,15 @@ footer {
     font-size: 26px !important;
   }
 }
-
 .hero a {
-  color: #66ccff;       /* light blue */
-  font-size: 1.2em;     /* slightly larger */
-  text-decoration: none;
+  color: #90ee90;
+  font-size: 1em;
+  text-decoration: underline;
 }
 
 .hero a:hover {
-  color: #99ddff;       /* even lighter on hover */
+  color: #c1ffc1;
 }
-
 .hero {
   margin-bottom: 20px;
   padding-bottom: 10px;
